@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <PackageId>Nivaes.Guid</PackageId>
+    <Title>Nivaes Guid</Title>
+    <AssemblyName>Nivaes.Guid</AssemblyName>
+    <RootNamespace>Nivaes.Guid</RootNamespace>
+    <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
+    <Product>Guid utils</Product>
+    <Description>Guid utils.</Description>
+    <PackageTags>Nivaes;Guid</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Images\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+ 
+</Project>
