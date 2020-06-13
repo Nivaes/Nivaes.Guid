@@ -5,4 +5,4 @@ AsyncTemporary
 
 ### Actions
 
-![ContinuousIntegration](https://github.com/Nivaes/Nivaes.Guid/workflows/ContinuousIntegration/badge.svg)
+![Continuous Integration](https://github.com/Nivaes/Nivaes.Guid/workflows/Continuous%20Integration/badge.svg)
