@@ -1,11 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
-    <PackageId>Nivaes.Guid</PackageId>
-    <Title>Nivaes Guid</Title>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net5.0</TargetFrameworks>
+  
     <AssemblyName>Nivaes.Guid</AssemblyName>
     <RootNamespace>Nivaes.Guid</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Nivaes.Guid</PackageId>
+    <Title>Nivaes Guid</Title>
+  
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
     <Product>Guid utils</Product>
     <Description>Guid utils.</Description>
