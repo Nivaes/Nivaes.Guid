@@ -1,7 +1,6 @@
 ﻿namespace Nivaes.UnitTest
 {
     using System;
-    using Nivaes;
     using Xunit;
 
     [Trait("TestType", "Unit")]
