@@ -13,7 +13,7 @@
   
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
     <Product>Guid utils</Product>
-    <Description>Guid utils.</Description>
+    <Description>GuidHelper is a set of utilities to convinar several Guid in one.</Description>
     <PackageTags>Nivaes;Guid</PackageTags>
   </PropertyGroup>
 
