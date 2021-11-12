@@ -11,7 +11,7 @@ GuidHelper is a set of utilities to convinar several Guid in one. If we agreed s
     var combineGuid1 = GuidHelper.Combine(guid1, guid2);
 ```
 
-### Packages
+## Packages
 
 | NuGet Package | Latest Versions |
 | --- | --- |
