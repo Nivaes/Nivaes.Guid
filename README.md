@@ -11,6 +11,12 @@ GuidHelper is a set of utilities to convinar several Guid in one. If we agreed s
     var combineGuid1 = GuidHelper.Combine(guid1, guid2);
 ```
 
+### Packages
+
+| NuGet Package | Latest Versions |
+| --- | --- |
+| [Nivaes.DataTestGenerator](https://www.nuget.org/packages/Nivaes.Guid) | [![latest stable version](https://img.shields.io/nuget/v/Nivaes.Guid.svg)](https://www.nuget.org/packages/Nivaes.Nivaes.Guid) |
+
 ## Integration
 
 ![CI](https://github.com/Nivaes/Nivaes.Guid/workflows/CI/badge.svg)
