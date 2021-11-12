@@ -15,7 +15,7 @@ GuidHelper is a set of utilities to convinar several Guid in one. If we agreed s
 
 | NuGet Package | Latest Versions |
 | --- | --- |
-| [Nivaes.Guid](https://www.nuget.org/packages/Nivaes.Guid) | [![latest stable version](https://img.shields.io/nuget/v/Nivaes.Guid.svg)](https://www.nuget.org/packages/Nivaes.Nivaes.Guid) |
+| [Nivaes.Guid](https://www.nuget.org/packages/Nivaes.Guid) | [![latest stable version](https://img.shields.io/nuget/v/Nivaes.Guid.svg)](https://www.nuget.org/packages/Nivaes.Guid) |
 
 ## Integration
 
