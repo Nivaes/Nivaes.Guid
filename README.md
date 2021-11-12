@@ -1,5 +1,13 @@
-# Async Utils
-Utilities for Guid manager. 
+# Nivaes Guid
+
+GuidHelper is a set of utilities to convinar several Guid in one. If we agreed several Guid in one, we can know if the origin of several identifiers is common.
+
+``` C#
+    var guid1 = Guid.NewGuid();
+    var guid2 = Guid.NewGuid();
+
+    var combineGuid1 = GuidHelper.Combine(guid1, guid2);
+```
 
 ### Actions
 
